@@ -15,6 +15,7 @@ The project "Bike Sales in Europe & North America - Excel" aims to provide a com
 The impact of this project is multifaceted:
 
 - **Informed Decision-Making**: By uncovering sales trends and product performance metrics, stakeholders can make informed decisions regarding inventory management, marketing strategies, and product development.
+
 - **Market Insights**: Understanding regional variations allows businesses to tailor their approaches based on specific market demands, enhancing competitiveness in both Europe and North America.
 
 
