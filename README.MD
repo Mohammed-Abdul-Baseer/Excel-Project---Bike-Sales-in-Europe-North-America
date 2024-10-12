@@ -5,7 +5,9 @@
 The project "Bike Sales in Europe & North America - Excel" aims to provide a comprehensive analysis of bike sales data across two major markets. The primary objectives include:
 
 - **Data Integrity**: Conduct extensive data cleaning to ensure the dataset is accurate and reliable for analysis.
+
 - **Sales Analysis**: Utilize advanced Excel functionalities, particularly Pivot Tables, to identify trends, product performance, and regional variations in bike sales.
+
 - **Visualization**: Develop an interactive dashboard that effectively communicates key insights through dynamic charts and slicers, facilitating strategic decision-making.
 
 ## Impact
