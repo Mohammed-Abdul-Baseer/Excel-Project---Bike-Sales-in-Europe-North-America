@@ -35,4 +35,4 @@ The methodology for this project encompasses several key steps:
    - Design an interactive dashboard using Excel’s built-in tools.
    - Incorporate dynamic elements such as slicers for user-friendly navigation and visualization of sales metrics and customer demographics.
   
-   This structured approach ensures that the project not only meets its objectives but also provides valuable insights into bike sales dynamics in Europe and North America. By publishing this project on GitHub, it serves as a demonstrable example of analytical skills and proficiency in Excel.
+This structured approach ensures that the project not only meets its objectives but also provides valuable insights into bike sales dynamics in Europe and North America. By publishing this project on GitHub, it serves as a demonstrable example of analytical skills and proficiency in Excel.
